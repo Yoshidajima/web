@@ -1,0 +1,16 @@
+h2{color:blue;}
+.form{
+  text-align: center;
+}
+  textarea{
+  background-color: #2885b9;
+  color:white;
+  border:none;
+  border-radius: 10px;
+}
+input{
+  background-color: #2bb035;
+  color:white;
+  border:none;
+  border-radius: 5px;
+}
